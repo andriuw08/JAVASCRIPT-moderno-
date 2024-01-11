@@ -1,0 +1,2 @@
+localStorage.setItem('nombre', 'Juan') // El primero es la llave y el segundo el valor al que vamos a cambiar
+// solo podemos guaradar strings, asi que en caso de utilizar otro tipo de dato hay que aplicarle el stringfy antes de 
